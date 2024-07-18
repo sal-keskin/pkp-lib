@@ -2393,73 +2393,75 @@ msgid "submission.list.assignEditor"
 msgstr "Editör Ata"
 
 msgid "submission.wizard.alreadySubmitted"
-msgstr ""
+msgstr "Bu makale önceden gönderilmiş."
 
 msgid "submission.wizard.beforeStart"
-msgstr ""
+msgstr "Başlamadan Önce"
 
 msgid "submission.wizard.categories.description"
-msgstr ""
+msgstr "Gönderiniz için uygun olan kategorileri seçin."
 
 msgid "submission.wizard.changeSubmission"
-msgstr ""
+msgstr "Gönderi Ayarlarını Değiştir"
 
 msgid "submission.wizard.completeSteps"
-msgstr ""
+msgstr "Gönderi yapmak için adımları tamamlayın"
 
 msgid "submission.wizard.confirmSubmit"
-msgstr ""
+msgstr "Gönderiniz, <strong>{$title}</strong>, editoryal inceleme için <strong>{$context}</strong>'e gönderilecektir. Bu gönderiyi tamamlamak istediğinizden emin misiniz?"
 
 msgid "submission.wizard.errors"
-msgstr ""
+msgstr "Göndermeden önce düzeltilmesi gereken bir veya daha fazla sorun var. Lütfen aşağıdaki bilgileri gözden geçirin ve istenen değişiklikleri yapın."
 
 msgid "submission.wizard.validating"
-msgstr ""
+msgstr "Gönderinizi kontrol ediliyor"
 
 msgid "submission.wizard.commentsForTheEditor.description"
-msgstr ""
+msgstr "Gönderinizin değerlendirilmesi sırasında editoryal ekibimizin bilmesi gerektiğini düşündüğünüz bilgileri ekleyin."
 
 msgid "submission.wizard.confirm"
-msgstr ""
+msgstr "Göndermeden önce lütfen aşağıdakileri onaylayın."
 
 msgid "submission.wizard.title"
-msgstr ""
+msgstr "Yeni Gönderi"
 
 msgid "submission.wizard.titleWithStep"
-msgstr ""
+msgstr "Yeni Gönderi: {$step}"
 
 msgid "submission.wizard.noContributors"
-msgstr ""
+msgstr "Bu gönderi için yazar eklenmedi."
 
 msgid "submission.wizard.missingContributorLanguage"
-msgstr ""
+msgstr "Bir veya daha fazla yazar adı {$language} dilinde eksik."
 
 msgid "submission.wizard.notAllowed"
-msgstr ""
+msgstr "İzin Verilmedi"
 
 msgid "submission.wizard.privacyConsent"
-msgstr ""
+msgstr "Gizlilik Onayı"
 
 msgid "submission.wizard.saved"
-msgstr ""
+msgstr "Daha Sonrası İçin Kaydedildi"
 
 msgid "submission.wizard.saved.description"
 msgstr ""
+"Gönderi detaylarınız sistemimize kaydedildi, ancak henüz değerlendirilmek üzere gönderilmedi. "
+"Herhangi bir zamanda aşağıdaki bağlantıyı takip ederek gönderinizi tamamlayabilirsiniz."
 
 msgid "submission.wizard.saved.emailConfirmation"
-msgstr ""
+msgstr "Bu bağlantının bir kopyasını {$email} adresinize e-posta ile gönderdik."
 
 msgid "submission.wizard.sectionClosed"
-msgstr ""
+msgstr "Bu Bölüm Gönderime Kapalı"
 
 msgid "submission.wizard.start"
-msgstr ""
+msgstr "Gönderime Başla"
 
 msgid "submission.wizard.startingStatus"
-msgstr ""
+msgstr "Yeni bir gönderime başlama"
 
 msgid "submission.wizard.unableToSave"
-msgstr ""
+msgstr "Bir hata ile karşılaşıldı ve gönderinizi kaydedemedik. İnternet bağlantınız kopmuş olabilir."
 
 msgid "grid.category.categories"
 msgstr "Kategoriler"
@@ -2570,13 +2572,13 @@ msgid "author.submit.confirmation"
 msgstr "Onay"
 
 msgid "submission.wizard.submittingInLanguage"
-msgstr ""
+msgstr "<strong>{$language}</strong> dilinde gönderiliyor."
 
 msgid "submission.wizard.submittingToSection"
-msgstr ""
+msgstr "<strong>{$section}</strong> bölümüne gönderiliyor."
 
 msgid "submission.wizard.submittingToSectionInLanguage"
-msgstr ""
+msgstr "<strong>{$section}</strong> bölümüne <strong>{$language}</strong> dilinde gönderiliyor."
 
 msgid "submission.type.tip"
 msgstr ""
@@ -2605,16 +2607,16 @@ msgid "submission.submit.selectPrincipalContact"
 msgstr "Editör yazışmaları için ana iletişim."
 
 msgid "submission.dataAvailability"
-msgstr ""
+msgstr "Veri Erişilebilirlik Bildirimi"
 
 msgid "submission.dataAvailability.tip"
-msgstr ""
+msgstr "Bu çalışmayı destekleyen kanıtları erişilebilir hale getirip getirmediğinizi ve eğer getirdiyseniz, nerede ve nasıl erişilebileceğini belirtin."
 
 msgid "submission.files.required.genre"
-msgstr ""
+msgstr "En az bir {$genre} dosyası yüklemelisiniz."
 
 msgid "submission.files.required.genres"
-msgstr ""
+msgstr "Aşağıdaki dosya türlerinden en az birini yüklemelisiniz: {$genres}."
 
 msgid "publication.version"
 msgstr "Sürüm {$version}"
